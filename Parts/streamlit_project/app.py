@@ -87,12 +87,11 @@ def display_product(textfile, tab_key):
 #tabs
 tab1, tab2, tab3 = st.tabs(["Single", "Couple Set", "DIY Kit"])
 with tab1:
-    display_product("single.txt", "single")
+    display_product("data/single.txt", "single")
 with tab2: 
-    display_product("couple.txt", "couple")
+    display_product("data/couple.txt", "couple")
 with tab3: 
-    display_product("diykit.txt", "diykit")
-
+    display_product("data/diykit.txt", "diykit")
 #sidebar
 with st.sidebar:
     st.title("My Cart")
