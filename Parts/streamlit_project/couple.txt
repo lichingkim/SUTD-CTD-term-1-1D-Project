@@ -1,5 +1,5 @@
-Snoopy,10.00, snoopy.jpg
-Capybara,15.00,capybara.jpg
-Bunny,20.00,bunny.jpg
-Base,10.00,base.jpg
-
+Capybara Set,15.00,images/capybara.jpg
+Penguin Set, 45, images/pengquin.png
+Sun & Earth Set, 44, images/Sun&E.jpeg
+Snoopy Set, 50, images/Couple_S.png
+Bear Set, 40, images/Bear.png
