@@ -1,16 +1,16 @@
-Winnie the Pooh, 15, winni.png
-Piglet, 15, pig.png
-Totoro, 20, totoro.png
-Monkey D. Luffy, 30, luffy.png
-Eevee, 20, pokemon_brown.png
-Bulbasaur, 20, pokemon_green.png
-Jigglypuff, 20, pokemon_pink.png
-Pikachu, 20, pokemon_pikachu.png
-Turtle, 20, pokemon_turtle.png
-Squirtle, 20, pokemon_blue.png
-Psyduck, 20, pokemon_duck.png
-Chewbacca, 20, Chewbacca.png
-Pink Penguin, 20, Pink_p.png
-Blue Penguin, 20, Blue_p.png
-Capybara, 30, bara.png
+Winnie the Pooh, 15, images/winni.png
+Piglet, 15, images/pig.png
+Totoro, 20, images/totoro.png
+Monkey D. Luffy, 30, images/luffy.png
+Eevee, 20, images/pokemon_brown.png
+Bulbasaur, 20, images/pokemon_green.png
+Jigglypuff, 20, images/pokemon_pink.png
+Pikachu, 20, images/pokemon_pikachu.png
+Turtle, 20, images/pokemon_turtle.png
+Squirtle, 20, images/pokemon_blue.png
+Psyduck, 20, images/pokemon_duck.png
+Chewbacca, 20, images/Chewbacca.png
+Pink Penguin, 20, images/Pink_p.png
+Blue Penguin, 20, images/Blue_p.png
+Capybara, 30, images/bara.png
 

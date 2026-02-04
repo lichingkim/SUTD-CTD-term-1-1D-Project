@@ -1,7 +1,7 @@
-Bear base,10.00,base.jpg
-Bunny base, 30, bunny.jpg
-Capybara base, 30, capyy.png
-VolleyBall, 5, volley.png
-Cherry, 5, cherry.png
-Beanie, 5, bean.png
-Turtle bag, 5, bagg.png
+Bear base,10.00,images/base.jpg
+Bunny base, 30, images/bunny.jpg
+Capybara base, 30, images/capyy.png
+VolleyBall, 5, images/volley.png
+Cherry, 5, images/cherry.png
+Beanie, 5, images/bean.png
+Turtle bag, 5, images/bagg.png
