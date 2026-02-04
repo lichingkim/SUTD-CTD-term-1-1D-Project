@@ -1,0 +1,5 @@
+Snoopy,10.00, snoopy.jpg
+Capybara,15.00,capybara.jpg
+Bunny,20.00,bunny.jpg
+Base,10.00,base.jpg
+

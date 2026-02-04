@@ -1,0 +1,5 @@
+Capybara Set,15.00,capybara.jpg
+Penguin Set, 45, pengquin.png
+Sun & Earth Set, 44, Sun&E.jpeg
+Snoopy Set, 50, Couple_S.png
+Bear Set, 40, Bear.png

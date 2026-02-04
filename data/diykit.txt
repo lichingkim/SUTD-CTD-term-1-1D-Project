@@ -1,0 +1,7 @@
+Bear base,10.00,base.jpg
+Bunny base, 30, bunny.jpg
+Capybara base, 30, capyy.png
+VolleyBall, 5, volley.png
+Cherry, 5, cherry.png
+Beanie, 5, bean.png
+Turtle bag, 5, bagg.png

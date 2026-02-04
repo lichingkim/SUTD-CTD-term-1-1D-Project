@@ -1,0 +1,14 @@
+Winnie the Pooh, 15, winni.png
+Piglet, 15, pig.png
+Totoro, 20, studiogibali.png
+Monkey D. Luffy, 30, monkey_d_luffy.jpg
+Brown, 20, pokemon_brown.png
+Green, 20, pokemon_green.png
+Pink, 20, pokemon_pink.png
+Pikachu, 20, pokemon_pikachu.png
+Turtle, 20, pokemon_turtle.png
+Blue, 20, pokemon_blue.png
+Duck, 20, pokemon_duck.png
+
+
+
